@@ -1,0 +1,5 @@
+C:\Users\samwd\source\repos\ShoppingPositioningSystem\src\API\ShoppingPositioningSystem.MobileAppService.Service\bin\Debug\netstandard2.0\ShoppingPositioningSystem.MobileAppService.Service.deps.json
+C:\Users\samwd\source\repos\ShoppingPositioningSystem\src\API\ShoppingPositioningSystem.MobileAppService.Service\bin\Debug\netstandard2.0\ShoppingPositioningSystem.MobileAppService.Service.dll
+C:\Users\samwd\source\repos\ShoppingPositioningSystem\src\API\ShoppingPositioningSystem.MobileAppService.Service\obj\Debug\netstandard2.0\ShoppingPositioningSystem.MobileAppService.Service.csprojAssemblyReference.cache
+C:\Users\samwd\source\repos\ShoppingPositioningSystem\src\API\ShoppingPositioningSystem.MobileAppService.Service\obj\Debug\netstandard2.0\ShoppingPositioningSystem.MobileAppService.Service.AssemblyInfoInputs.cache
+C:\Users\samwd\source\repos\ShoppingPositioningSystem\src\API\ShoppingPositioningSystem.MobileAppService.Service\obj\Debug\netstandard2.0\ShoppingPositioningSystem.MobileAppService.Service.AssemblyInfo.cs
